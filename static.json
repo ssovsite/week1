@@ -1,7 +1,8 @@
 {
   "headers":{
     "/*":{
-    "X-Author": "Nevoplush"
+    "X-Author": "Nevoplush",
+    "Access-Control-Allow-Origin": "*"
     }
   }
 }
